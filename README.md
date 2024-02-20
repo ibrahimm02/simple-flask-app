@@ -1,2 +1,2 @@
-# simple-flask-app
-Simple Flask App
+# simple-python-app
+Simple Python App
