@@ -1,2 +1,2 @@
 # simple-python-app
-Simple Python App
+Simple Python App with AWS CI/CD
